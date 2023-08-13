@@ -1,4 +1,4 @@
-![](img\header.png)
+![](https://github.com/aaronroman/AI-Data-DevOps-Blogs/blob/main/img/header.png)
 
 ℹ️ A curated list of corporate blogs focusing on Artificial Intelligence, Data Science, and Engineering. Explore insights, trends, and innovations from industry experts.
 

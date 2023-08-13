@@ -1,6 +1,6 @@
 ![](https://github.com/aaronroman/AI-Data-DevOps-Blogs/blob/main/img/header.png)
 
-## Descripcion
+## What is this repository about?
 
 A curated list of corporate blogs focusing on Artificial Intelligence, Data Science, and Engineering, where professionals and aspirants in these fields can explore insights, trends, and innovations from industry experts. Feel free to contribute updates to this list. 😊
 
